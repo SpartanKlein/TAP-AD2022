@@ -1,0 +1,1 @@
+CL -I"C:\Program Files\Java\jdk-19\include" -I"C:\Program Files\Java\jdk-19\include\win32" -LD Consola.c -FeConsola.dll
